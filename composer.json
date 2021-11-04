@@ -6,7 +6,11 @@
   "require": {
     "magento/framework": "*",
     "magento/module-theme": "101.1.*"
-  },
+  }
+    ,
+    "require-dev": {
+        "roave/security-advisories": "dev-latest"
+    },
   "license": [
     "Proprietary"
   ],
